@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aytientus
 - 👀 I’m interested in web and game development
-- 🌱 I’m currently learning react native programming
+- 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me via gmail
 
