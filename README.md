@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aytientus
-- 👀 I’m interested in ...
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently busy with exams
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me via email
