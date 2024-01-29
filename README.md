@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aytientus
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning web programming
+- 👀 I’m interested in ...
+- 🌱 I’m currently busy with exams
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me via email
 
